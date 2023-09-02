@@ -3,4 +3,4 @@ This repository contains the [slides](https://github.com/o-ba/typo3-new-apis/blo
 
 You can also watch the talk on [youtube](https://www.youtube.com/watch?v=o3BHfJtiQeQ&t=6116s).
 
-You can also find the german [slides](https://github.com/o-ba/typo3-new-apis/blob/main/TYPO3_NEW_APIs.pdf), presented at the [TYPO3 Camp Munich](https://www.typo3camp-muenchen.de/). 
+You can also find the german [slides](https://github.com/o-ba/typo3-new-apis/blob/main/TYPO3_Neue_APIs.pdf), presented at the [TYPO3 Camp Munich](https://www.typo3camp-muenchen.de/). 
