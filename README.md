@@ -3,7 +3,7 @@
 > An updated version of the [slides](https://github.com/o-ba/typo3-new-apis/blob/main/TYPO3_New_APIs_v13.pdf)
 > covering all the new APIs for TYPO3 v13 are available now. The slides are
 > from this years [API talk](https://t3dd24.typo3.com/program/sessions/typo3-new-apis-757)
-> at the [#t3dd24](https://t3dd24.typo3.com/).
+> at the [#t3dd24](https://t3dd24.typo3.com/). The slides are also available on [google drive](https://drive.google.com/file/d/15kghD9LHywH019Vj2PpFDx0PWfkNbqEx).
 
 This repository contains the [slides](https://github.com/o-ba/typo3-new-apis/blob/main/TYPO3_NEW_APIs.pdf)
 of the **TYPO3 New APIs** [talk](https://t3dd23.typo3.com/program/sessions/typo3-new-api-570),
